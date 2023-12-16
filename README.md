@@ -1,2 +1,2 @@
 # my_python_project
-Python project
+print("Hello World")
