@@ -1,2 +1,4 @@
 # my_python_project
-print("Hello World")
+m = 5
+n = "*"
+print(m*n)
